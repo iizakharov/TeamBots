@@ -1,0 +1,8 @@
+mailru-im-bot
+pynetbox
+elasticsearch==7.16.1
+schedule
+prettytable
+pyexcel
+pyexcel-xls
+thehive4py

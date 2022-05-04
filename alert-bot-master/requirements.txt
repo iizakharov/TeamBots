@@ -1,0 +1,5 @@
+mailru-im-bot
+pynetbox
+elasticsearch
+schedule
+prettytable

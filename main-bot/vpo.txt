@@ -1,0 +1,14 @@
+Agentb.gen
+Equation
+ransomware
+backdoor
+spy
+Fasol.gen
+Siggen17
+DCRat
+WannaCry
+Exploit
+ShadowBrokers
+Ransom
+mimikatz
+Credump
